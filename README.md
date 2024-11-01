@@ -158,8 +158,10 @@ form {
 }
 ```
 
+## Imagens do site 
+
 ## Contatos
 
-Este projeto foi desenvolvido em colaboração com dois colegas de turma, com o auxilio do professor []() combinando esforços para a construção de uma aplicação de conversão de moedas.
-* []()
-* []()
+Este projeto foi desenvolvido em colaboração com dois colegas de turma, com o auxilio do professor [Leonardo Rocha](https://github.com/leonardossrocha) combinando esforços para a construção de uma aplicação de conversão de moedas.
+* [Geovana Lima](https://github.com/Geovanaaplima)
+* [Chrystian Almeida](https://github.com/ESChrystian/)
